@@ -10,7 +10,7 @@ The aim of the project was to create an application that could be used as a dail
 
 The purpose of this application was to make an interactive daily planner that could enable users to schedule their daily activities into time-slots, this data could be saved and accessed later in the day if desired. To use the daily planner application, users should enter their daily activities into each time-slot then press the save button. The text-boxes are colour coded to represent future, past and present time. Green indicates that the hour is in the future, grey indicates the past, and red displays the present time.
 
-![screenshot](screenshot.png "screenshot of the Daily Planner")
+![screenshot](screenshot1.png "screenshot of the Daily Planner")
 
 ## License
 
