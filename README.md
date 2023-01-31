@@ -21,3 +21,5 @@ Daily Planner is licensed under the MIT license.
 To use the Daily Planner the user should first visit the deployed webpage in a browser. In each time-slot daily tasks can be entered into the text boxes. On the right side of the screen are save buttons for each time-slot. Once the user is finished entering a daily task, the save button should be selected to save the data into local storage. Entries saved into the local storage are accessible after refreshing the page.
 
 ## Deployed webpage link
+
+https://aliceangelica.github.io/Daily-Planner/
